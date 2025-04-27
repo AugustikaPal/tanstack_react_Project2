@@ -20,7 +20,7 @@ export default function EventDetails() {
           </nav>
         </header>
         <div id="event-details-content">
-          <img src="" alt="" />
+          {/* <img src="" alt="" /> */}
           <div id="event-details-info">
             <div>
               <p id="event-details-location">EVENT LOCATION</p>
